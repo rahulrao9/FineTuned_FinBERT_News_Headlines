@@ -1,3 +1,4 @@
+You can download the model with this [link](https://www.kaggle.com/datasets/rahulrrao/finetuned-finbert-for-financial-news-headlines?select=tf_model.h5)
 This is a fine tuned model of [FinBERT](https://huggingface.co/ProsusAI/finbert) for sentiment classification of news headlines. 
 
 ```
