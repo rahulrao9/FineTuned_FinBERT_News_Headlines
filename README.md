@@ -10,4 +10,4 @@ Sentiments
 
 > Validation Accuracy: 82.36%
 
-If you are finding any difficulties in running the model, please go through [this code](https://github.com/rahulrao9/Business_Forecasting/blob/main/code/news.ipynb)
+If you are finding any difficulties in running the model, please go through [this code](https://www.kaggle.com/code/rahulrrao/test-ez)
